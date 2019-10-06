@@ -1,0 +1,16 @@
+[Cards]
+0= ,Dachshund
+1= ,Chihuahua
+2= ,Labrador Retriever
+3= ,Puggle
+4= ,German Shepherd
+5= ,Golden retriever
+6= ,Beagle 
+7= ,Bulldog
+8= ,Golden retriever 
+9= ,Labradoodle
+10= ,poodle 
+11= ,Dalmatian 
+12= ,Siberian Husky 
+13= ,Yorkshire terrier
+14= ,Boxer

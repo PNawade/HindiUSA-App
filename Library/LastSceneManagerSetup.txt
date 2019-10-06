@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/About/AboutLogIn.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CommonScripts/globalData.cs">
+    <Files>
+      <File FileName="Assets/CommonScripts/loadImage.cs" Line="1" Column="1" />
+      <File FileName="Assets/CommonScripts/txtList.cs" Line="147" Column="31" />
+      <File FileName="Assets/About/abGameController.cs" Line="18" Column="3" />
+      <File FileName="Assets/CommonScripts/globalData.cs" Line="29" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

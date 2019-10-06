@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/About/abGameController.cs">
+    <Files>
+      <File FileName="Assets/CommonScripts/txtList.cs" Line="1" Column="1" />
+      <File FileName="Assets/CommonScripts/globalData.cs" Line="1" Column="1" />
+      <File FileName="Assets/About/abGameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Log In Screen/loginGameController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Shared/Unity/Hindi3/Assets/Log In Screen/ValidatePassword.cs" relfile="Assets/Log In Screen/ValidatePassword.cs" line="225" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
